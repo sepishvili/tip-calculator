@@ -15,7 +15,7 @@
 ### Getting Started
 1. First of all you need to clone app repository from github:
 ```
-git clone https://github.com/datoxx/tip-calculator-app.git
+git clone git@github.com:sepishvili/tip-calculator.git
 ```
 2. Next step requires install all the dependencies.
 
